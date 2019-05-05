@@ -1,0 +1,1 @@
+set JAVA_OPTS=-server -Xms2g -Xmx4g -XX:MaxNewSize=512m

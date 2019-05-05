@@ -1,0 +1,1 @@
+start "" notepad.exe docview\WEB-INF\classes\conf.properties
